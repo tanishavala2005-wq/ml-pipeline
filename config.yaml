@@ -1,0 +1,4 @@
+data_path: data/raw/WA_Fn-UseC_-Telco-Customer-Churn.csv
+model_path: models/churn_model.joblib
+test_size: 0.2
+random_state: 42
