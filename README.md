@@ -57,6 +57,12 @@ Confusion matrix of the final model:
 
 The model caught 293 of the 374 customers who actually churned.
 
+## Experiment Tracking
+
+All three models were tracked with MLflow (parameters and metrics for each run), which made it easy to compare them side by side.
+
+![MLflow dashboard](images/mlflow_dashboard.png)
+
 ## How to Run
 
 ```bash
@@ -100,8 +106,4 @@ Example response:
 
 Python, pandas, NumPy, scikit-learn, XGBoost, Matplotlib, Seaborn, FastAPI, Pydantic, Streamlit, joblib, Git/GitHub.
 
-## Future Work
-
 - Experiment tracking with MLflow
-- Containerize the API with Docker
-- Deploy the API online
