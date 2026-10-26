@@ -87,6 +87,14 @@ streamlit run app/streamlit_app.py
 
 The trained model file is not stored in the repository, so run step 2 first.
 
+## Live Demo App
+
+![Home](images/app_home.png)
+![Prediction](images/app_prediction.png)
+
+
+**Try it live:** https://ml-pipeline-mqtg.onrender.com
+
 ## API Example
 
 `POST /predict` returns the prediction and the churn probability for a customer.
