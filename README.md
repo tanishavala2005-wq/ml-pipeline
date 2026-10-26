@@ -89,11 +89,12 @@ The trained model file is not stored in the repository, so run step 2 first.
 
 ## Live Demo App
 
+**Try it live:** https://ml-pipeline-mqtg.onrender.com
+
 ![Home](images/app_home.png)
 ![Prediction](images/app_prediction.png)
-
-
-**Try it live:** https://ml-pipeline-mqtg.onrender.com
+![3D customer map](images/app_3d_map.png)
+![Model performance](images/app_performance.png)
 
 ## API Example
 
