@@ -116,7 +116,3 @@ Example response:
 Python, pandas, NumPy, scikit-learn, XGBoost, Matplotlib, Seaborn, FastAPI, Pydantic, Streamlit, joblib, Git/GitHub.
 
 
-## Future Work
-
-- Containerize the API with Docker
-- Deploy the API online
