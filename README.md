@@ -106,4 +106,8 @@ Example response:
 
 Python, pandas, NumPy, scikit-learn, XGBoost, Matplotlib, Seaborn, FastAPI, Pydantic, Streamlit, joblib, Git/GitHub.
 
-- Experiment tracking with MLflow
+
+## Future Work
+
+- Containerize the API with Docker
+- Deploy the API online
