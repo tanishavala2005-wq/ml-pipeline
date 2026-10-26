@@ -57,7 +57,7 @@ Confusion matrix of the final model:
 
 The model caught 293 of the 374 customers who actually churned.
 
-## Experiment Tracking
+## Experiment Tracking with MLflow
 
 All three models were tracked with MLflow (parameters and metrics for each run), which made it easy to compare them side by side.
 
